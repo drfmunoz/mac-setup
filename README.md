@@ -23,8 +23,6 @@
 
 ###### Git
 
-Install git
-
 Install [git](http://git-scm.com/download/mac)
 
 ###### Install Oracle Java
@@ -53,7 +51,11 @@ Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ###### Powerlines
 
-Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerline.readthedocs.org/en/latest/installation/osx.html#installation-osx) _(install the fonts first)_
+Install the Inconsolata and other fonts  _(13/14pt)_
+ 
+	git clone https://github.com/Lokaltog/powerline-fonts
+
+Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerline.readthedocs.org/en/latest/installation/osx.html#installation-osx)
 
 	git clone https://github.com/Lokaltog/powerline
 	cd powerline
