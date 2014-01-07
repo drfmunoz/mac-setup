@@ -1,5 +1,4 @@
-# Setting up freddy's mac
-
+# Setting up Freddy's mac
 
 ## Name it
 
@@ -16,28 +15,57 @@
 
 #Installs
 
-## Install shell tools
-1. Download [iterm2](http://www.iterm2.com/)
-2. Get dot config files from here (.zshrc,.vim,.gitconfig, etc.)
-3. Get ssh config directory from _lunar_ (usb stick) -- [other dotFiles](http://dotfiles.github.io/)
-4. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-5. Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerline.readthedocs.org/en/latest/installation/osx.html#installation-osx) _(install the fonts first)_
-6. Install [git](http://git-scm.com/download/mac)
-9. Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
+## Install tools
+###### iTerm2 
 
+Install [iterm2](http://www.iterm2.com/)
+Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
-## Misc setups
+###### Git
 
+Install [git](http://git-scm.com/download/mac)
+
+###### Install Oracle Java
+
+Install [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+
+###### Dot config files
+
+Get dot config files from here (.zshrc,.vim,.gitconfig, etc.)
+
+	curl  https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.tmux.conf > ~/.tmux.conf
+	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.zshrc > ~/.zshrc
+	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.vimrc > ~/.vimrc
+
+###### SSH config
+
+Get ssh config directory from _lunar_ (usb stick) -- [other dotFiles](http://dotfiles.github.io/)
+
+###### Oh-My-Zsh
+
+Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+	curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+
+###### Powerlines
+
+Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerline.readthedocs.org/en/latest/installation/osx.html#installation-osx) _(install the fonts first)_
+
+	git clone https://github.com/Lokaltog/powerline
+	cd powerline
+	./setup.py build
+	./setup.py install --user
+	
 ###### Install homebrew
 
 	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
-	
+
 ###### Install tree
-	
+
 	brew install tree
-	
+
 ###### Install maven
-	
+
 	brew install maven
 
 ###### Change greeting message
@@ -45,12 +73,13 @@
 	sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText 'Welcome to HOSTNAME (Freddy s haven)'
 
 ###### Show all files
+
 	defaults write com.apple.finder AppleShowAllFiles TRUE
-	
+
 ###### Kill dashboard
+
 	defaults write com.apple.dashboard mcx-disabled -boolean YES
 	Killall Dock
-
 
 ## Install from Mac apple store
 
@@ -86,9 +115,8 @@
 17. [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
 18. [Tunnelblick](https://code.google.com/p/tunnelblick/)
 19. [monolingual](http://monolingual.sourceforge.net) -- use once. 
-20. [Oracle Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
-21. [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) 
-22. [R](http://www.r-project.org/)
+20. [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) 
+21. [R](http://www.r-project.org/)
 
 ### Proprietary with license
 
@@ -99,7 +127,6 @@
 5. [Game Dev Tycoon](http://www.greenheartgames.com/app/game-dev-tycoon/)
 6. [Things](http://culturedcode.com/things/) and TLC [launchd job](http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/)
 7. Office -- got license and binaries in _lunar_.
-
 
 # Post install
 
@@ -112,8 +139,6 @@
 5. Sign into Evernote (sync notes).
 6. Set zsh as the default shell (in iTerm).
 
-
-
 ## Setup Chrome
 1. [Tab manager](https://chrome.google.com/webstore/detail/tab-manager/coonecdghnepgiblpccbbihiahajndda/related?hl=en)
 2. [Clean the junk](https://chrome.google.com/webstore/detail/clean-the-junk/)
@@ -122,7 +147,6 @@
 5. [Screen capture](https://chrome.google.com/webstore/detail/screen-capture-by-google/cpngackimfmofbokmjmljamhdncknpmg/related?hl=en)
 6. [Bookmark search](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
 7. [Disable chrome notifications](http://productforums.google.com/forum/#!topic/chrome/oYp5lXA3dhg)
-
 
 ### Add the cleanup launchd jobs
 
