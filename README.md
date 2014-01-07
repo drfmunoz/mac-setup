@@ -21,7 +21,7 @@
 2. Get dot config files from here (.zshrc,.vim,.gitconfig, etc.)
 3. Get ssh config directory from _lunar_ (usb stick) -- [other dotFiles](http://dotfiles.github.io/)
 4. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-5. Install [powerlines](https://github.com/Lokaltog/powerline) _(install the fonts first)_
+5. Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerline.readthedocs.org/en/latest/installation/osx.html#installation-osx) _(install the fonts first)_
 6. Install [git](http://git-scm.com/download/mac)
 9. Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
