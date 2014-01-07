@@ -18,8 +18,8 @@
 ## Install tools
 ###### iTerm2 
 
-Install [iterm2](http://www.iterm2.com/)
-Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
+1. Install [iterm2](http://www.iterm2.com/)
+2. Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
 ###### Git
 
