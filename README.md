@@ -35,11 +35,11 @@ Install [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downl
 
 Get dot config files from here (.zshrc,.vimrc,tmux, etc.)
 
-	curl  https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.tmux.conf > ~/.tmux.conf
-	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.zshrc > ~/.zshrc
-	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.vimrc > ~/.vimrc
-	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.gitconfig > ~/.gitconfig
-	curl -O https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.gitignore_global > ~/.gitignore_global
+	curl https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.tmux.conf > ~/.tmux.conf
+	curl https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.zshrc > ~/.zshrc
+	curl https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.vimrc > ~/.vimrc
+	curl https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.gitconfig > ~/.gitconfig
+	curl https://raw.github.com/drfmunoz/mac-setup/master/dotFiles/.gitignore_global > ~/.gitignore_global
 
 ###### SSH config
 
