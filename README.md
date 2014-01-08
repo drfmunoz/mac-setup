@@ -154,6 +154,8 @@ Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerl
 6. [Bookmark search](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
 7. [Disable chrome notifications](http://productforums.google.com/forum/#!topic/chrome/oYp5lXA3dhg)
 
+[Search engines backup restore](http://blog.ndrix.com/2010/10/sync-google-chrome-search-engines.html) _available on lunar_
+
 ### Add the cleanup launchd jobs
 
 [scheduled jobs OSX](http://paul.annesley.cc/2012/09/mac-os-x-launchd-is-cool/)
