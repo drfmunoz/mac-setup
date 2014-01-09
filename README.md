@@ -167,6 +167,7 @@ Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerl
 2. Osiris (2007 - 2010)
 4. Seth (2010 - 2011)
 5. Apollo (2011 - 2013)
+6. Chronos (2013 - present)
 
 # Unix
 
