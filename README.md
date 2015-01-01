@@ -21,13 +21,9 @@
 1. Install [iterm2](http://www.iterm2.com/)
 2. Install [solarized](http://ethanschoonover.com/solarized) for [iterm](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
-###### Git
-
-Install [git](http://git-scm.com/download/mac)
-
 ###### Install Oracle Java
 
-1. Install 1.7 [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+1. Install 1.8 [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 2. Install 1.6 [Apples Java (JDK6)](http://support.apple.com/kb/DL1572?viewlocale=en_US) 
 3. check [JAVAHOME](http://java.dzone.com/articles/java-findingsetting) and import development certs if needed.
 
@@ -75,6 +71,12 @@ Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerl
 ###### Install maven
 
 	brew install maven
+
+###### Install pip and aws
+
+	curl https://bootstrap.pypa.io/get-pip.py > get-pip.py
+	sudo python get-pip.py
+	sudo pip install awscli
 
 ###### Change greeting message
 
