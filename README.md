@@ -23,8 +23,7 @@
 
 ###### Install Oracle Java
 
-1. Install 1.8 [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
-2. Install 1.6 [Apples Java (JDK6)](http://support.apple.com/kb/DL1572?viewlocale=en_US) 
+1. Install 1.8 [Oracle Java (JDK7)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 3. check [JAVAHOME](http://java.dzone.com/articles/java-findingsetting) and import development certs if needed.
 
 ###### Dot config files
@@ -40,6 +39,10 @@ Get dot config files from here (.zshrc,.vimrc,tmux, etc.)
 ###### SSH config
 
 Get ssh config directory from _lunar_ (usb stick) -- [other dotFiles](http://dotfiles.github.io/)
+
+###### Use zsh instead of bash
+
+	chsh -s $(which zsh)
 
 ###### Oh-My-Zsh
 
@@ -115,7 +118,7 @@ Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerl
 7. [Quicksilver](http://qsapp.com/download.php) or [alfred](http://www.alfredapp.com/)
 8. [Dropbox](https://www.dropbox.com/downloading)
 9. [Spotify](https://www.spotify.com/download/mac)
-10. [Menumeter](http://www.ragingmenace.com/software/menumeters/#download)
+10. [Menumeter](http://www.ragingmenace.com/software/menumeters/#download) - [requires patch panel](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) for El Capitan
 11. [TextMate 2](https://github.com/textmate/textmate)
 12. [Open Office](https://www.openoffice.org/download/index.html)
 13. [Cyberduck](http://cyberduck.io)
