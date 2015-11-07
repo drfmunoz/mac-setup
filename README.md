@@ -177,9 +177,9 @@ Install the [Solarized Theme](https://github.com/jkaving/intellij-colors-solariz
 2. Isabella (2005 - 2007) -- ibook 12 inch
 2. Osiris (2007 - 2010) -- macbook pro 15 inch (1st gen)
 4. Seth (2010 - 2011) -- macbook pro 15 inch (unibody)
-5. Apollo (2011 - 2013)
-6. Chronos (2013 - 2015)
-7. 
+5. Apollo (2011 - 2013) -- macbook pro 13 inch (unibody)
+6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody)
+7. ?
 
 # Unix
 
