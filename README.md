@@ -179,7 +179,7 @@ Install the [Solarized Theme](https://github.com/jkaving/intellij-colors-solariz
 4. Seth (2010 - 2011) -- macbook pro 15 inch (unibody)
 5. Apollo (2011 - 2013) -- macbook pro 13 inch (unibody)
 6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody)
-7. ?
+7. Mercury (2015 - present) -- Macbook 12
 
 # Unix
 
