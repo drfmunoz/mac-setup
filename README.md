@@ -65,7 +65,7 @@ Install [powerlines](https://github.com/Lokaltog/powerline) [OSX](https://powerl
 	
 ###### Install homebrew
 
-	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ###### Install tree
 
@@ -178,8 +178,8 @@ Install the [Solarized Theme](https://github.com/jkaving/intellij-colors-solariz
 2. Osiris (2007 - 2010) -- macbook pro 15 inch (1st gen)
 4. Seth (2010 - 2011) -- macbook pro 15 inch (unibody)
 5. Apollo (2011 - 2013) -- macbook pro 13 inch (unibody)
-6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody)
-7. Mercury (2015 - present) -- Macbook 12
+6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody late 2012)
+7. Mercury (2015 - present) -- Macbook pro retina 13 (unibody mid 2015)
 
 # Unix
 
