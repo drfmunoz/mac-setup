@@ -197,3 +197,7 @@ Install the [Solarized Theme](https://github.com/jkaving/intellij-colors-solariz
 #### OSX automation
 
 [boxen](https://github.com/blog/1345-introducing-boxen)
+
+#### MISC
+
+	defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
