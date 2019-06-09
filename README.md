@@ -57,8 +57,9 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 4. Seth (2010 - 2011) -- macbook pro 15 inch (unibody)
 5. Apollo (2011 - 2013) -- macbook pro 13 inch (unibody)
 6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody late 2012)
-7. Mercury (2015 - present) -- Macbook pro retina 13 (unibody mid 2015)
-8. Magellan (2019 - present) -- Macbook pro retina 13 (unibody mid 2015)
+7. Mercury (2015 - 2018) -- Macbook pro retina 13 (unibody mid 2015)
+8. Magellan (2018 - 2019) -- Macbook pro retina 13 (unibody mid 2015)
+9. HAL10K (2019 - present) -- Macbook air (retina 2010)
 
 # Unix
 
