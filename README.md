@@ -7,8 +7,6 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 ## Before setup
 
 1. Register with appleId account.
-2. Disable natural scrolling
-
 #Installs
 
 ## Install tools
@@ -19,7 +17,7 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 
 ## Install from Mac apple store
 
-1. XCode	
+1. XCode
 2. Spark
 3. Keynote
 4. Aperture
@@ -39,16 +37,6 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 5. Setup Office.
 6. Restore backups - as necessary.
 
-## Setup Chrome
-1. [Tab manager](https://chrome.google.com/webstore/detail/tab-manager/coonecdghnepgiblpccbbihiahajndda/related?hl=en)
-2. [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
-3. [History search](https://chrome.google.com/webstore/detail/history-search/bojcckfnoicpmfgjhhoncpinbmechmkl?hl=en)
-4. [Speed tracker](https://chrome.google.com/webstore/detail/speed-tracer-by-google/ognampngfcbddbfemdapefohjiobgbdl/related?hl=en)
-5. [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-6. [Bookmark search](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
-7. [Disable chrome notifications](http://productforums.google.com/forum/#!topic/chrome/oYp5lXA3dhg)
-8. [1Password](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk?hl=en)
-
 ## Name History
 
 1. Trantor (2003-2005)
@@ -59,10 +47,12 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 6. Chronos (2013 - 2015) -- macbook pro retina 13 (unibody late 2012)
 7. Mercury (2015 - 2018) -- Macbook pro retina 13 (unibody mid 2015)
 8. Magellan (2018 - 2019) -- Macbook pro retina 13 (unibody mid 2015)
-9. HAL10K (2019 - present) -- Macbook air (retina 2010)
+9. HAL10K (2019 - 2021) -- Macbook pro 16 (2019)
+10. **Antartica (2021 - present) -- M1 Pro 14 (2021)**
 
 # Unix
 
+[shell additional setup](https://github.com/drfmunoz/shell-setup)
 [Ctrl-z and ctrl-c](http://superuser.com/questions/262942/whats-different-between-ctrlz-and-ctrlc-in-unix-command-line)
 [Screen and tmux](http://www.dayid.org/os/notes/tm.html)
 [sed](http://www.grymoire.com/unix/sed.html)
