@@ -6,7 +6,8 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 
 ## Before setup
 
-1. Register with appleId account.
+1. Unregister previous computer
+
 #Installs
 
 ## Install tools
