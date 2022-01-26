@@ -16,6 +16,10 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 * With https://github.com/drfmunoz/homebrew-brewfile
 * And https://github.com/drfmunoz/dotfiles
 
+## Install Fonts
+
+https://github.com/ryanoasis/nerd-fonts
+
 ## Install from Mac apple store
 
 1. XCode
