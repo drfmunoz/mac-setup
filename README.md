@@ -20,6 +20,10 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 
 https://github.com/ryanoasis/nerd-fonts
 
+## Themes
+
+https://www.nordtheme.com/
+
 ## Install from Mac apple store
 
 1. XCode
