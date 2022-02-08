@@ -35,6 +35,8 @@ https://www.nordtheme.com/
 
 ## Install mac apps
 
+* https://github.com/will-stone/browserosaurus
+
 # Post install
 
 ## Setup Mail, Dbx, Evnt, etc.
