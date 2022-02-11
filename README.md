@@ -36,6 +36,7 @@ https://www.nordtheme.com/
 ## Install mac apps
 
 * https://github.com/will-stone/browserosaurus
+* https://github.com/Mortennn/Dozer
 
 # Post install
 
