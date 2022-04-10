@@ -2,7 +2,7 @@
 
 ## Name it
 
-Select a good name, find inspiration in gods, constellation, popular computers, robots, etc.
+Select a name, find inspiration in gods, constellation, popular computers, robots, etc.
 
 ## Before setup
 
@@ -12,9 +12,8 @@ Select a good name, find inspiration in gods, constellation, popular computers, 
 
 ## Install tools
 
-* Use https://github.com/drfmunoz/strap
-* With https://github.com/drfmunoz/homebrew-brewfile
-* And https://github.com/drfmunoz/dotfiles
+* https://github.com/drfmunoz/homebrew-brewfile
+* https://github.com/drfmunoz/dotfiles (private)
 
 ## Install Fonts
 
@@ -24,30 +23,11 @@ https://github.com/ryanoasis/nerd-fonts
 
 https://www.nordtheme.com/
 
-## Install from Mac apple store
-
-1. XCode
-2. Spark
-3. Keynote
-4. Aperture
-5. GoodNotes
-6. Twitter
-
-## Install mac apps
+## Install mac apps (non store)
 
 * https://github.com/will-stone/browserosaurus
 * https://github.com/Mortennn/Dozer
 
-# Post install
-
-## Setup Mail, Dbx, Evnt, etc.
-
-1. Setup Spark (gmail account).
-2. Setup Aperture Library.
-3. Sign into Dropbox (sync documents).
-4. Sign into Evernote (sync notes).
-5. Setup Office.
-6. Restore backups - as necessary.
 
 ## Name History
 
@@ -68,6 +48,3 @@ https://www.nordtheme.com/
 [Ctrl-z and ctrl-c](http://superuser.com/questions/262942/whats-different-between-ctrlz-and-ctrlc-in-unix-command-line)
 [Screen and tmux](http://www.dayid.org/os/notes/tm.html)
 [sed](http://www.grymoire.com/unix/sed.html)
-
-## OSX tips 
-[select by columns](http://one-line-it.blogspot.fr/2013/01/mac-os-x-select-by-column.html)
